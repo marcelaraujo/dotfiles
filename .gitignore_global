@@ -1,2 +1,12 @@
-*~
+# OS X Paraphernalia
 .DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Windows Paraphernalia
+Thumbs.db
+ehthumbs.db
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
