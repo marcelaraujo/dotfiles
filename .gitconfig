@@ -1,0 +1,13 @@
+[user]
+	name = Marcel Araujo
+	email = ceceldada@gmail.com
+[github]
+	user = marcelaraujo
+[core]
+	excludesfile = /Users/marcelaraujo/.gitignore_global
+[alias]
+	s = status -bs
+	lg = log --color \
+           --graph \
+           --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' \
+           --abbrev-commit --
